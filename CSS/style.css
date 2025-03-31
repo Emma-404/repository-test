@@ -1,7 +1,7 @@
 h1 {
-  color: crimson;
+  color: rgb(21, 12, 14);
   display: block;
-  height: 60px;
+  height: 150px;
   text-align: center;
 }
 
@@ -14,7 +14,7 @@ img {
   );
   width: 300px;
   height: 500px;
-  text-align: center;
+  margin: 0 auto;
 }
 
 body {
@@ -23,4 +23,9 @@ body {
     rgb(252, 183, 115) 0%,
     rgb(139, 102, 241) 100%
   );
+}
+
+p {
+  display: block;
+  text-align: center;
 }
